@@ -3,7 +3,7 @@
 # Global Gaming Sales Data Analysis
 
 ## Overview  
-This project explores 16,416 rows of global gaming sales data from North America, Europe, and Japan spanning 39 years (1980–2020). By analyzing trends in sales, platforms, and genres, it provides actionable insights for gaming investors to prioritize successful genres and platforms during the gaming boom (2007–2010).
+This project explores 16,416 rows of global gaming sales data from North America, Europe, and Japan spanning 39 years (1980–2020). By analyzing trends in sales, platforms, and genres, it provides actionable insights for gaming investors to prioritize successful genres and platforms during the gaming boom (2007–2010). Review the full code <a href="https://github.com/rbeaubrun/Digital-Entertainment-Market-Analysis/blob/main/Gaming%20Market%20Analysisv2.ipynb">here.</a>
 
 ## Technologies Used  
 - **Numpy**: Numerical operations and handling large datasets.
