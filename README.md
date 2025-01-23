@@ -1,4 +1,3 @@
-![Digital-Entertainment-Market-Analysis](https://github.com/rbeaubrun/Digital-Entertainment-Market-Analysis/blob/main/pygaming_photo.webp)
 
 # Global Gaming Sales Data Analysis
 
